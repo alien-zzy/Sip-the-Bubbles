@@ -66,7 +66,7 @@ Your suction power depletes over time, and you must manage your energy to avoid 
 - **Developer:** [ZhuoYuan Zhan, ZhiKang Shi, TianYi Bao, ShaoBo Jiang]
 - **Function Design:** [ZhiKang Shi]
 - **Skill And Animation design:** [ZhuoYuan Zhan]
-- **Level Design:** [ZhuoYuan Zhan]
+- **Level Design:** [ShaoBo Jiang]
 - **Art:** [TianYi Bao]
 - **Special Thanks:** [Peter Ng]
 
