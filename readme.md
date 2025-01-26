@@ -52,6 +52,44 @@ Your suction power depletes over time, and you must manage your energy to avoid 
 
 ---
 
+## Special Ingredients (小料)
+
+In **Sip the Bubble**, there are several special ingredients (also known as "toppings") that float in the bubble tea. Each topping has its own unique characteristics and contributes differently to your score. Here’s a breakdown of each topping, along with how they affect your game.
+
+### **Pearl** (珍珠) – **15 Points**
+Pearls are the highest-scoring topping in the game, worth **15 points** each! They’re scattered throughout the bubble tea and are the main collectible item. Pearls are easy to suck up with the straw, and they provide the majority of your score.
+
+![Pearl](picture/bubble.png)
+
+- **Points:** 15
+- **Description:** Easy to collect, the main source of points. Collect as many as you can!
+
+### **Coconut Jelly** (椰果) – **10 Points**
+Coconut Jelly, or **椰果**, has a unique characteristic: it can only be collected if it's upright. This adds a level of difficulty to collecting it. If the coconut jelly is lying down, you’ll need to rotate the straw or wait for it to stand up to collect it. 
+
+![Coconut Jelly](picture/yeguo.png)
+
+- **Points:** 10
+- **Description:** Requires careful positioning of the straw to collect. If it’s lying flat, you’ll need to make it stand up first!
+
+### **Taro Balls** (芋圆) – **5 Points**
+Taro Balls are tiny and easy to suck up. Because of their small size, they only give **5 points** each. They’re great for quickly racking up some score when you’re in a pinch!
+
+![Taro Balls](picture/yuyuan.png)
+
+- **Points:** 5
+- **Description:** Small and easy to collect, but they only contribute a small amount to your score.
+
+### **Ice Cube** (冰块) – **-10 Points**
+Ice Cubes are tricky. They slowly melt over time, and once sucked up, they actually **subtract 10 points** from your score! Be careful not to collect too many of these, or they’ll end up hurting your score.
+
+![Ice Cube](picture/ice.png)
+
+- **Points:** -10 (when collected)
+- **Description:** Ice cubes slowly melt over time and will subtract points if sucked up. Avoid them if you want to maximize your score!
+
+---
+
 ## Installation
 
 1. Clone or download the project repository.
