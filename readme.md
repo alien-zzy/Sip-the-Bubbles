@@ -52,12 +52,12 @@ Your suction power depletes over time, and you must manage your energy to avoid 
 
 ---
 
-## Special Ingredients (小料)
+## Special Ingredients 
 
 In **Sip the Bubble**, there are several special ingredients (also known as "toppings") that float in the bubble tea. Each topping has its own unique characteristics and contributes differently to your score. Here’s a breakdown of each topping, along with how they affect your game.
 
-### **Pearl** (珍珠) – **15 Points**
-Pearls are the highest-scoring topping in the game, worth **15 points** each! They’re scattered throughout the bubble tea and are the main collectible item. Pearls are easy to suck up with the straw, and they provide the majority of your score.
+### **Bubble** (珍珠) – **15 Points**
+Bubbles are the highest-scoring topping in the game, worth **15 points** each! They’re scattered throughout the bubble tea and are the main collectible item. Bubbles are easy to suck up with the straw, and they provide the majority of your score.
 
 ![Pearl](picture/bubble.png)
 
